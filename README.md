@@ -13,7 +13,7 @@ Install the packages for building:
 
 Clone this repository:
 
-    ~$ git clone https://github.com/bastianraschke/pyfingerprint.git
+    ~$ git clone https://github.com/foxxx/pyfingerprint.git
 
 Build the package:
 
